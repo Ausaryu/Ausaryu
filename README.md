@@ -2,11 +2,11 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Ausaryu&label=Profile%20views&style=for-the-badge&color=161b22)
 
-I'm transitioning into fullstack web development.
+<!--I'm transitioning into fullstack web development.
 I build projects focused on real-world needs, organization, and efficiency.
 
 ## 🎯 Goal
-Looking for an internship / apprenticeship in fullstack web development (Rennes or remote).
+Looking for an internship / apprenticeship in fullstack web development (Rennes or remote).-->
 
 ## 🧩 Skills
 [![My Skills](https://skillicons.dev/icons?i=git,linux,vscode,c,bash&theme=dark)](https://skillicons.dev)
