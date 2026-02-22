@@ -20,7 +20,8 @@ Looking for an internship / apprenticeship in fullstack web development (Rennes 
 </details>
 
 ## 🚀 Currently
-- C / fundamentals
+- Python / Web Developpement
+- Python / fundamentals
 - Git / Linux
 - Holberton projects
 
@@ -29,7 +30,9 @@ Former retail manager focused on team efficiency and field operations.
 I aim to build tools that simplify scheduling, communication, and daily execution.-->
 
 ## 📌 Featured projects
-- [Holberton — Sorting algorithms & Big O](https://github.com/Ausaryu/holbertonschool-sorting_algorithms) (Group project)
+- [Holberton — Hbnb](https://github.com/Antgst/holbertonschool-hbnb)
+- [Holberton — Higher level programming](https://github.com/Ausaryu/holbertonschool-higher_level_programming)
+- [Holberton — Sorting algorithms & Big O](https://github.com/Gwendal-B/holbertonschool-sorting_algorithms) (Group project)
 - [Holberton — Binary trees](https://github.com/Ausaryu/holbertonschool-binary_trees) (Group project)
 - [Holberton — _printf](https://github.com/Ausaryu/holbertonschool-printf) (Group project)
 - [Holberton — Low level programming](https://github.com/Ausaryu/holbertonschool-low_level_programming)
