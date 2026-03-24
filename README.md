@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Yonas
 
+![Profile views](https://komarev.com/ghpvc/?username=Ausaryu&label=Profile%20views&style=for-the-badge&color=161b22)
+
 Fullstack web development student at Holberton School, focused on building interactive and practical web applications.
 
 Currently working on backend systems (Python, APIs) and exploring modern frontend technologies (JavaScript, React).
-
-![Profile views](https://komarev.com/ghpvc/?username=Ausaryu&label=Profile%20views&style=for-the-badge&color=161b22)
 
 ## 🎯 Goal
 Looking for an internship / apprenticeship in fullstack web development (Rennes or remote).
