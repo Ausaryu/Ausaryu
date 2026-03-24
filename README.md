@@ -7,7 +7,7 @@ Fullstack web development student at Holberton School, focused on building inter
 Currently working on backend systems (Python, APIs) and exploring modern frontend technologies (JavaScript, React).
 
 ## 🎯 Goal
-Looking for an internship / apprenticeship in fullstack web development (Rennes or remote).
+Looking for an internship / apprenticeship in fullstack web development.
 
 ## 🧩 Skills
 [![My Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,c,python,js,react,html,css,bash&theme=dark)](https://skillicons.dev)
