@@ -1,33 +1,34 @@
-# 👋 Hi!
+# 👋 Hi, I'm Yonas
+
+Fullstack web development student at Holberton School, focused on building interactive and practical web applications.
+
+Currently working on backend systems (Python, APIs) and exploring modern frontend technologies (JavaScript, React).
 
 ![Profile views](https://komarev.com/ghpvc/?username=Ausaryu&label=Profile%20views&style=for-the-badge&color=161b22)
 
-<!--I'm transitioning into fullstack web development.
-I build projects focused on real-world needs, organization, and efficiency.
-
 ## 🎯 Goal
-Looking for an internship / apprenticeship in fullstack web development (Rennes or remote).-->
+Looking for an internship / apprenticeship in fullstack web development (Rennes or remote).
 
 ## 🧩 Skills
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,c,python,js,react,html,css,bash,postgres&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,c,python,js,react,html,css,bash&theme=dark)](https://skillicons.dev)
 
 <details>
   <summary><b>Next up (learning soon)</b></summary>
 
   <br/>
 
-  [![Next](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react&theme=dark)](https://skillicons.dev)
+  [![Next](https://skillicons.dev/icons?i=ts,nodejs,threejs&theme=dark)](https://skillicons.dev)
 </details>
 
 ## 🚀 Currently
-- Python / Web Developpement
-- Python / fundamentals
-- Git / Linux
-- Holberton projects
+- Building a backend Airbnb clone (Python, API)
+- Learning JavaScript and React for interactive web interfaces
+- Working on Holberton projects (C, algorithms, system)
 
-<!--## 🧠 What I bring
-Former retail manager focused on team efficiency and field operations.
-I aim to build tools that simplify scheduling, communication, and daily execution.-->
+## 🔍 Interests
+- Interactive web applications
+- Performance and optimization
+- AI applied to user interfaces
 
 ## 📌 Featured projects
 - [Holberton — Hbnb](https://github.com/Antgst/holbertonschool-hbnb) (Group project)
@@ -39,10 +40,6 @@ I aim to build tools that simplify scheduling, communication, and daily executio
 - [Holberton — Shell basics](https://github.com/Ausaryu/holbertonschool-shell)
 - [Holberton — Git intro](https://github.com/Ausaryu/git-intro)
 
-<!--## 🔗 Links
-[![Gmail](https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:ant.gousset@gmail.com)
-[![CV](https://img.shields.io/badge/CV-161b22?style=for-the-badge&logo=googledocs&logoColor=58a6ff)](https://github.com/Ausaryu/cv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/antoinegousset352)-->
 
 ## 📈 Metrics
 ![Metrics](./github-metrics.svg)
