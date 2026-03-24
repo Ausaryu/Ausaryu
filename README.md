@@ -30,8 +30,8 @@ Former retail manager focused on team efficiency and field operations.
 I aim to build tools that simplify scheduling, communication, and daily execution.-->
 
 ## 📌 Featured projects
-- [Holberton — Hbnb](https://github.com/Antgst/holbertonschool-hbnb)
-- [Holberton — Higher level programming](https://github.com/Ausaryu/holbertonschool-higher_level_programming)
+- [Holberton — Hbnb](https://github.com/Antgst/holbertonschool-hbnb) (Group project)
+- [Holberton — Web front end](https://github.com/Ausaryu/holbertonschool-web_front_end)
 - [Holberton — Sorting algorithms & Big O](https://github.com/Gwendal-B/holbertonschool-sorting_algorithms) (Group project)
 - [Holberton — Binary trees](https://github.com/Ausaryu/holbertonschool-binary_trees) (Group project)
 - [Holberton — _printf](https://github.com/Ausaryu/holbertonschool-printf) (Group project)
