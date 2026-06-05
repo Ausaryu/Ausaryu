@@ -2,36 +2,52 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Ausaryu&label=Profile%20views&style=for-the-badge&color=161b22)
 
-Fullstack web development student at Holberton School, focused on building interactive and practical web applications.
+Full-stack web development student at Holberton School, focused on building interactive and practical web applications.
 
-Currently working on backend systems (Python, APIs) and exploring modern frontend technologies (JavaScript, React).
+Currently building a portfolio project: a supplier marketplace for supermarkets using React, Node.js, Vite and Prisma.
 
-## 🎯 Goal
-Looking for an internship / apprenticeship in fullstack web development.
+## Skills
 
-## 🧩 Skills
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,c,python,js,react,html,css,bash&theme=dark)](https://skillicons.dev)
+### Languages
+[![Languages](https://skillicons.dev/icons?i=c,python,js,php,bash&theme=dark)](https://skillicons.dev)
 
-<details>
-  <summary><b>Next up (learning soon)</b></summary>
+### Front-end
+[![Front-end](https://skillicons.dev/icons?i=html,css,react,vite&theme=dark)](https://skillicons.dev)
 
-  <br/>
+### Back-end & frameworks
+[![Back-end](https://skillicons.dev/icons?i=nodejs,symfony,prisma&theme=dark)](https://skillicons.dev)
 
-  [![Next](https://skillicons.dev/icons?i=ts,nodejs,threejs&theme=dark)](https://skillicons.dev)
-</details>
+### Tools & environment
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,phpstorm&theme=dark)](https://skillicons.dev)
 
 ## 🚀 Currently
 - Building a backend Airbnb clone (Python, API)
 - Learning JavaScript and React for interactive web interfaces
-- Working on Holberton projects (C, algorithms, system)
+- Some others personnal projects 
 
 ## 🔍 Interests
 - Interactive web applications
-- Performance and optimization
+- Cybersecurity and penetration testing
 - AI applied to user interfaces
 
-## 📌 Featured projects
-- [Holberton — Hbnb](https://github.com/Antgst/holbertonschool-hbnb) (Group project)
+## Selected Projects
+
+### HBnB Evolution — Full-Stack Web Application  
+**Python • Flask • REST API • JWT • SQLAlchemy • JavaScript • SQLite**
+
+HBnB is a group project focused on building and integrating a web application with a layered backend architecture, REST API, authentication and front-end interaction.
+
+- Built and integrated front-end pages connected to a Flask REST API
+- Implemented authentication-aware UI behavior and dynamic content rendering
+- Contributed to a layered backend architecture with clear separation of concerns
+- Worked on place pages, host cards, amenities, galleries and reviews
+- Participated in API validation through a Postman test suite — **142 tests passing**
+
+👉 [View the HBnB project](https://github.com/Ausaryu/holbertonschool-hbnb)
+
+---
+
+## Other projects
 - [Holberton — Web front end](https://github.com/Ausaryu/holbertonschool-web_front_end)
 - [Holberton — Sorting algorithms & Big O](https://github.com/Gwendal-B/holbertonschool-sorting_algorithms) (Group project)
 - [Holberton — Binary trees](https://github.com/Ausaryu/holbertonschool-binary_trees) (Group project)
